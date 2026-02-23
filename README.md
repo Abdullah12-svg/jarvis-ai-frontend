@@ -22,3 +22,9 @@ Currently, this repository contains the **user interface** and the Eel bridge co
 - [ ] Integrate Text-to-Speech (TTS) for Jarvis's voice.
 - [ ] Add OpenAI / LLM integration for intelligent conversation.
 - [ ] Build system automation scripts (opening apps, searching the web, checking weather,e.t.c).
+
+
+
+
+
+
