@@ -25,8 +25,7 @@ Currently, this repository contains the **user interface** and the Eel bridge co
 
 
 
-Pictures
-<img width="1156" height="871" alt="Screenshot 2026-02-23 231656" src="https://github.com/user-attachments/assets/098acb83-a0cd-4073-85ba-fc17343bc037" />
+
 
 
 
